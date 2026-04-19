@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1ASFTpuEdas4Zimm9iKJxmeowk_OBb0r5
 """
 
-!pip install gradio PyPDF2 docx2txt scikit-learn
 
+import streamlit as st
 import os
 import PyPDF2
 import docx2txt
